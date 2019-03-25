@@ -1,8 +1,8 @@
 {
     "name": "namet/laravel-admin-tagsinput",
-    "description": "description...",
+    "description": "tagsinput for laravel-admin Form",
     "type": "library",
-    "keywords": ["laravel-admin", "extension"],
+    "keywords": ["laravel-admin", "extension", "jquery", "bootstrap", "tagsinput"],
     "homepage": "https://github.com/namet117/laravel-admin-tagsinput",
     "license": "MIT",
     "authors": [
