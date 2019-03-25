@@ -4,7 +4,7 @@ laravel-admin-tagsinput
 
 效果图
 -
-[](https://github.com/namet117/images/raw/master/laravel-admin-tags/result.png)
+![result.png](https://github.com/namet117/images/raw/master/laravel-admin-tags/result.png)
 
 环境依赖
 -
