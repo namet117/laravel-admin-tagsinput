@@ -29,7 +29,7 @@ class TagsinputServiceProvider extends ServiceProvider
         }
 
         Admin::booting(function () {
-            Form::extend('tagsinput', TagsInput::class);
+            Form::extend('tagsinput', Tagsinput::class);
         });
     }
 }
