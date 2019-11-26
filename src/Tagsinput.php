@@ -50,7 +50,7 @@ SCRIPT;
      *
      * @return string
      */
-    public function getPlaceholder()
+    public function getPlaceholder(): string
     {
         $placeholder = parent::getPlaceholder();
         $len = mb_strlen($placeholder);
